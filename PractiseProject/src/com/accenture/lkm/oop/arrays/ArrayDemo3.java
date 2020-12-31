@@ -20,6 +20,7 @@ public class ArrayDemo3 {
 		
 		System.out.println("==for loop==");
 		System.out.println("Given array elements are:");
+		System.out.println("this is for git!!");
 		for (int i = 0; i < myNumArray.length; i++) {
 			System.out.println("array element at position: "+i+", value is: "+myNumArray[i]);
 		}
